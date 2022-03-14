@@ -1,0 +1,6 @@
+﻿  Game.cpp
+C:\Users\Eduardo\Desktop\Letter_Soup_2\Game.cpp(79,9): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Main.cpp
+  Generating Code...
+  LINK : program database C:\Users\Eduardo\Desktop\Letter_Soup_2\Debug\Letter_Soup_2.pdb missing; performing full link
+  Letter_Soup_2.vcxproj -> C:\Users\Eduardo\Desktop\Letter_Soup_2\Debug\Letter_Soup_2.exe
